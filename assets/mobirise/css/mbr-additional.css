@@ -1478,3 +1478,26 @@ body {
     width: 100% !important;
   }
 }
+.cid-rBcGsxExuH {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rBcGsxExuH .line {
+  background-color: #232323;
+  color: #232323;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rBcGsxExuH .section-text {
+  padding: 2rem 0;
+}
+.cid-rBcGsxExuH .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rBcGsxExuH .inner-container {
+    width: 100% !important;
+  }
+}
