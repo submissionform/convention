@@ -189,7 +189,7 @@
           "_styles": {
             "background": "@bgColor",
             "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
+              "padding-top": "(@paddingTop * 8px)",
               "padding-bottom": "(@paddingBottom * 15px)"
             },
             "& when (@gradientBg)": {
