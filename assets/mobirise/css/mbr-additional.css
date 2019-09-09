@@ -1467,16 +1467,17 @@ body {
   padding: 1rem 3rem;
   border-radius: 0px !important;
 }
-.cid-rBc30dzCfy {
+.cid-rBzKt861wW {
   background: #ffffff;
-  padding-top: 0px;
+  padding-top: 60px;
   padding-bottom: 60px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-rBc30dzCfy .video-block {
+.cid-rBzKt861wW .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-rBc30dzCfy .video-block {
+  .cid-rBzKt861wW .video-block {
     width: 100% !important;
   }
 }
